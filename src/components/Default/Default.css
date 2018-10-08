@@ -1,0 +1,37 @@
+.container-fluid {
+	margin: 0px;
+	padding: 80px 100px;
+	width: 100% !important;
+}
+
+.kennel {
+	margin: 10px auto;
+	padding: 10px;
+	height: 100%;
+	border-radius: 15px;
+	background-color: #ff69b4;
+}
+
+/* MEDIA QUERIES */
+
+/* Large devices <1200px */
+@media (max-width: 1199px) {
+	.container-fluid {
+		padding: 50px;
+	}
+}
+
+/* Medium devices <992px */
+@media (max-width: 991px) { 
+}
+
+/* Small devices <768px */
+@media (max-width: 767px) { 
+    .container-fluid {
+		padding: 25px;
+	}
+}
+
+/* tiny devices < 576px */
+@media (max-width: 575px) { 
+}

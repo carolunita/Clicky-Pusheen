@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Gangnam Style",
+    "image": "https://media.giphy.com/media/4NmoidOYFWV09tELYg/giphy.gif"
+  },
+  {
+    "id": 2,
+    "name": "Sushi",
+    "image": "https://media.giphy.com/media/uTYRvMPbK3hZrO8KYD/giphy.gif"
+  },
+  {
+    "id": 3,
+    "name": "Sleepy",
+    "image": "https://media.giphy.com/media/5UEBXsHJi6r5ySrwv5/giphy.gif"
+  },
+  {
+    "id": 4,
+    "name": "Unicorn",
+    "image": "https://media.giphy.com/media/uVgFgHlwaeHiYjOxbT/giphy.gif"
+  },
+  {
+    "id": 5,
+    "name": "Fancy",
+    "image": "https://media.giphy.com/media/2898LpgK0v6AQJYQUH/giphy.gif"
+  },
+  {
+    "id": 6,
+    "name": "Spaguetti",
+    "image": "https://media.giphy.com/media/9VrxqYM0iAFbD4dju9/giphy.gif"
+  },
+  {
+    "id": 7,
+    "name": "Beautiful",
+    "image": "https://media.giphy.com/media/NVm1tz0GZrrd1OHckE/giphy.gif"
+  },
+  {
+    "id": 8,
+    "name": "Cookies",
+    "image": "https://media.giphy.com/media/35RhjJ8wJdHUCxJYrc/giphy.gif"
+  },
+  {
+    "id": 9,
+    "name": "Chips",
+    "image": "https://media.giphy.com/media/Dr3BaWNZBjxMsMVmFr/giphy.gif"
+  },
+  {
+    "id": 10,
+    "name": "Twilight",
+    "image": "https://media.giphy.com/media/jTd3O4gCPFFuzlIvh9/giphy.gif"
+  },
+  {
+    "id": 11,
+    "name": "Nyan Cat",
+    "image": "https://media.giphy.com/media/2sbNtXVXKeqb3MnBmc/giphy.gif"
+  },
+  {
+    "id": 12,
+    "name": "Broom",
+    "image": "https://media.giphy.com/media/1rKzzbCCly3A0nU87s/giphy.gif"
+     }
+]

@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("./img/pink_dots.svg");
+  background-repeat: no-repeat;
+}
